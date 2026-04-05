@@ -1,5 +1,3 @@
-# Introduction-to-Machine-Learning-Using-Python-
-
 # Introduction to Machine Learning Using Python
 
 A simple, comprehensive guide to understanding the fundamentals of Machine Learning, implementing algorithms from scratch, and using industry-standard libraries.

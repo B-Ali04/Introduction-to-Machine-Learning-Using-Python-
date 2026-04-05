@@ -26,12 +26,12 @@ This repository serves as a starting point for anyone looking to dive into the w
 ---
 
 ## Roadmap
-1. **The Basics:** NumPy & Pandas for data manipulation.
+1. **The Basics:** SQL, Python, NumPy & Pandas for data manipulation.
 2. **Visuals:** Matplotlib & Seaborn for exploratory data analysis (EDA).
 3. **Regression:** Linear and Polynomial regression.
 4. **Classification:** Logistic Regression, Decision Trees, and SVMs.
 5. **Clustering:** K-Means and Hierarchical clustering.
-6. **Final Project:** A real-world case study (e.g., Titanic survival or House price prediction).
+6. **Case Studies:** Real-world case studies.
 
 ---
 

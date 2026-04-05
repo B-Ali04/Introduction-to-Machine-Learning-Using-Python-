@@ -8,7 +8,7 @@ This repository emphasizes **practical implementation, reproducibility, and real
 
 ## Overview
 
-Machine Learning is not just about models—it is a pipeline.
+Machine Learning is not just about models, it is a pipeline from start to finish.
 
 This guide is built around the **ML lifecycle**, covering:
 

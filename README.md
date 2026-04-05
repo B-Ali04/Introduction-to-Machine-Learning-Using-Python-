@@ -84,4 +84,4 @@ This guide is built around the **ML lifecycle**, covering:
 ```bash
 git clone https://github.com/B-Ali04/Introduction-to-Machine-Learning-Using-Python-.git
 cd Introduction-to-Machine-Learning-Using-Python-
-pip install -r requirements.txt
+pip install numpy pandas scikit-learn matplotlib seaborn jupyter

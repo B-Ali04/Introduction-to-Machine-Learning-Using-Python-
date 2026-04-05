@@ -15,7 +15,7 @@ A simple, comprehensive guide to understanding the fundamentals of Machine Learn
 ---
 
 ## About the Project
-This repository serves as a starting point for anyone looking to dive into the world of Data Science and ML. It covers the transition from raw data to predictive modeling, focusing on practical implementation rather than just heavy theory.
+This repository serves as a starting point for anyone looking to dive into the world of Data Science and ML. It covers the transition from raw data to predictive modeling, focusing on practical implementation rather than just heavy theory. This project expects the reader to have some experience programming in Python.
 
 **Key concepts covered:**
 * Supervised vs. Unsupervised Learning
@@ -27,10 +27,10 @@ This repository serves as a starting point for anyone looking to dive into the w
 
 ## Roadmap
 1. **The Basics:** SQL, Python, NumPy & Pandas for data manipulation.
-2. **Visuals:** Matplotlib & Seaborn for exploratory data analysis (EDA).
-3. **Regression:** Linear and Polynomial regression.
-4. **Classification:** Logistic Regression, Decision Trees, and SVMs.
-5. **Clustering:** K-Means and Hierarchical clustering.
+2. **Visualization and Data:** Matplotlib & Seaborn for exploratory data analysis (EDA).
+3. **Regressions:** Linear and Polynomial regression.
+4. **Classifying:** Logistic Regression, Decision Trees, and SVMs.
+5. **Clustering Analysis:** K-Means and Hierarchical clustering.
 6. **Case Studies:** Real-world case studies.
 
 ---
@@ -50,4 +50,4 @@ This repository serves as a starting point for anyone looking to dive into the w
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/your-username/Intro-to-ML-Python.git](https://github.com/your-username/Intro-to-ML-Python.git)
+   git clone [https://github.com/B-Ali04/Introduction-to-Machine-Learning-Using-Python-.git](https://github.com/B-Ali04/Introduction-to-Machine-Learning-Using-Python-.git)

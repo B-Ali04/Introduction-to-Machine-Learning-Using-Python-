@@ -37,7 +37,8 @@ This repository serves as a starting point for anyone looking to dive into the w
 
 ## Tech Stack
 * **Language:** Python 3.x
-* **Libraries:** * `scikit-learn` (Modeling)
+* **Libraries:**
+    * `scikit-learn` (Modeling)
     * `pandas` (Dataframes)
     * `numpy` (Numerical computing)
     * `matplotlib` / `seaborn` (Visualization)

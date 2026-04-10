@@ -59,7 +59,7 @@ This guide is built around the **ML lifecycle**, covering:
 - Hyperparameter tuning  
 - Performance metrics  
 
-### 6. Applied Case Studies
+### 6. Applied Case Studies (in progress)
 - End-to-end ML workflows  
 - Real-world datasets  
 - Model comparison and interpretation  
